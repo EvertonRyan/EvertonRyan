@@ -1,6 +1,7 @@
   <h1>Olá! Meu nome é Everton Ryan</h1>
   <h2>Atualmente, estou estudando HTML, CSS e JavaScript</h2>
 <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertonRyan&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonRyan&layout=donut&theme=transparent">
 </div>
 
